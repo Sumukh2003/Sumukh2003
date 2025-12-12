@@ -40,3 +40,5 @@
 
 ---
 
+# 📊 GitHub Stats:
+![](https://nirzak-streak-stats.vercel.app/?user=Sumukh2003&theme=dark&hide_border=false)
