@@ -39,6 +39,3 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
-
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=Sumukh2003&theme=dark&hide_border=false)
